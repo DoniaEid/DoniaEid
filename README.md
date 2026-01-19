@@ -1,48 +1,52 @@
+<h1 align="center">Hi 👋, I'm Donia Eid</h1>
+<h2 align="center">Software Engineer | OOP | Java | Python | DS</h2>
 
-<h1 align="center">I'm Donia Eid</h1>
-
-<h2 align="center">Software Engineer</h2><br>
-
-<!-- Visit Me -->
-
+<!-- Typing animation -->
 <p align="center">
   <a href="https://www.linkedin.com/in/donia-eid" target="_blank">
-    <img src="https://readme-typing-svg.herokuapp.com/?lines=Visit%20my%20LinkedIn%20Profile;I%20Post%20Insightful%20Content;Follow%20to%20get%20New%20Updates&font=Bold%20Code&center=true&color=30D050&pause=1750&size=21">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=21&pause=1000&color=30D050&center=true&vCenter=true&width=600&lines=Welcome+to+my+GitHub+Profile!;I+Love+Programming+and+OOP;Follow+for+Projects+and+Updates"/>
   </a>
 </p>
 
-<!-- Social Links -->
-
-<div align="center" style="background-color: #f9f9f9; padding: 10px; border-radius: 8px;">
-  <a href="https://dev.to/" style="display: inline-block; margin: 0 20px;">
-    <img src="https://media2.dev.to/dynamic/image/quality=100/https://dev-to-uploads.s3.amazonaws.com/uploads/logos/resized_logo_UQww2soKuUsjaOGNB38o.png" height="60"/>
+<!-- Social links -->
+<div align="center">
+  <a href="https://www.linkedin.com/in/donia-eid" target="_blank">
+    <img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" alt="LinkedIn" width="50" style="margin: 0 10px"/>
   </a>
-  <a href="https://www.linkedin.com/in/donia-eid" style="display: inline-block; margin: 0 10px;">
-    <img src="https://images.icon-icons.com/1043/PNG/512/social_media_icons_flat_shadow_set_512x512_0010_linkedin_icon-icons.com_76459.png" height="58"/>
+  <a href="https://dev.to/" target="_blank">
+    <img src="https://cdn-icons-png.flaticon.com/512/2111/2111532.png" alt="Dev.to" width="50" style="margin: 0 10px"/>
   </a>
-  <a href="https://medium.com/" style="display: inline-block; margin: 0 10px;">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/Medium_logo_Monogram.svg/2048px-Medium_logo_Monogram.svg.png" height="60"/>
+  <a href="https://medium.com/" target="_blank">
+    <img src="https://cdn-icons-png.flaticon.com/512/5968/5968906.png" alt="Medium" width="50" style="margin: 0 10px"/>
   </a>
 </div>
 
-<h3 align="left">🛠️ Languages & Tools:</h3>
+<!-- Languages & Tools -->
+<h3 align="center">🛠️ Languages & Tools</h3>
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=java,python,html,css,c,cpp,js,ds" alt="Tech Skills Icons"/>
+  <img src="https://skillicons.dev/icons?i=java,python,html,css,c,cpp,js,ds" alt="Tech Skills"/>
 </p>
 
-<h3 align="left">🏆 GitHub Trophies:</h3>
+<!-- GitHub Stats -->
+<h3 align="center">📊 GitHub Stats</h3>
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Donia-Eid&theme=onestar&row=1&column=7"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=Donia-Eid&show_icons=true&theme=radical" alt="Donia GitHub Stats"/>
+</p>
+
+<!-- GitHub Trophies -->
+<h3 align="center">🏆 GitHub Trophies</h3>
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Donia-Eid&theme=radical&row=1&column=7"/>
 </p>
 
 <!-- Top Languages -->
-
+<h3 align="center">📈 Top Languages</h3>
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Donia-Eid&layout=compact&langs_count=5&theme=codeSTACKr"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Donia-Eid&layout=compact&langs_count=8&theme=radical" alt="Top Languages"/>
 </p>
 
 <!-- Contribution Snake -->
-
+<h3 align="center">🐍 GitHub Contributions</h3>
 <p align="center">
-  <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg">
+  <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" alt="Contribution Snake"/>
 </p>
