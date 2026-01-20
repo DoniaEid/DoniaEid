@@ -25,9 +25,10 @@
     <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/Medium_logo_Monogram.svg/2048px-Medium_logo_Monogram.svg.png" height="60"/>
   </a>
 </div>
+
 <h3 align="left">🛠️ Languages & Tools:</h3>
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=java,c,js,html,css,python,mysql,git,github,react"/>
+  <img src="https://skillicons.dev/icons?i=java,c,cpp,js,html,css,python,mysql,git,github,linux,react"/>
 </p>
 
 
