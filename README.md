@@ -6,13 +6,13 @@
 ## 📫 Connect with me:
 
 <div align="center">
-  <a href="YOUR_LINKEDIN_URL_HERE" target="_blank">
+  <a href="https://www.linkedin.com/in/donia-eid/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
-  <a href="YOUR_GITHUB_URL_HERE" target="_blank">
+  <a href="https://github.com/donia-eid" target="_blank">
     <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
   </a>
-  <a href="mailto:YOUR_EMAIL_HERE" target="_blank">
+  <a href="mailto:donia@example.com" target="_blank">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
   </a>
 </div>
@@ -42,9 +42,9 @@
 ## 📊 GitHub Stats:
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=radical" alt="GitHub Stats"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=donia-eid&show_icons=true&theme=radical" alt="GitHub Stats"/>
   <br><br>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=radical" alt="Top Languages"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=donia-eid&layout=compact&theme=radical" alt="Top Languages"/>
 </div>
 
 <br>
@@ -52,7 +52,7 @@
 ## 🏆 GitHub Trophies:
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=YOUR_USERNAME&theme=radical&no-frame=true" alt="GitHub Trophies"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=donia-eid&theme=radical&no-frame=true" alt="GitHub Trophies"/>
 </div>
 
 <br>
