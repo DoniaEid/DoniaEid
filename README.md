@@ -1,54 +1,69 @@
-<h1 align="center">I'm Donia Eid</h1>
+<h1 align="center">👋 I'm Donia Eid</h1>
+<h2 align="center">Software Engineer | Java Developer</h2>
 
-<h2 align="center">Software Engineer</h2><br>
+<br>
 
-  <!-- Google Me -->
+## 📫 Connect with me:
 
-  <p align="center">
-    <a href="https://www.google.com.eg/search?newwindow=1&sca_esv=b2e5f7f6770a8207&sxsrf=AE3TifMpWxc2Z0GmxiufM_6DO5wCf2lzLw:1748645168913&q=mohamed+el+laithy&udm=2&fbs=AIIjpHwdmGJ2pVN6Mtw05VXThvEt8lChlyChvRJ84VlkpGpvmZmLobWj48tCHer-uw7DC3l4U82Dv3fU8RaEUQZyUH9HKOUTVGBgQJ4m1YZIPa-Cm_t3MYIrTqg0dlrUu4aoiRC-u1CkiPMkRiCiEHZg9RYy6WbWvqtCKmfALDfFX871g4Q7P1z-EFGN7J0ubESPD3Ucc_bfgMikBeX2ddRkq0t6T8uvpl3_XsupH_uXgePLEKroMKE-K3C6CIiiuOzN6w5Al-EmP4jnjADAeOtONuyugulkGg&sa=X&ved=2ahUKEwj_j4bxosyNAxWFTqQEHR4yGOUQtKgLegQIFxAB&biw=1366&bih=641&dpr=1#vhid=hlfTaZmfFYjYKM&vssid=mosaic">
-      <img src="https://readme-typing-svg.herokuapp.com/?lines=Visit%20my%20LinkedIn%20Profile;I%20Post%20Insightful%20Content;Follow%20to%20get%20New%20Updates&font=Bold%20Code&center=true&color=30D050&pause=1750&size=21">
-    </a>
-  </p>
-
-
-
-  <!-- LinkedIn -->
-
-<div align="center" style="background-color: #f9f9f9; padding: 10px; border-radius: 8px;">
-  <a href="https://dev.to/mohamed_el_laithy" style="display: inline-block; margin: 0 20px;">
-    <img src="https://media2.dev.to/dynamic/image/quality=100/https://dev-to-uploads.s3.amazonaws.com/uploads/logos/resized_logo_UQww2soKuUsjaOGNB38o.png" height="60"/>
+<div align="center">
+  <a href="YOUR_LINKEDIN_URL_HERE" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
-  <a href="https://www.linkedin.com/in/mohamed-el-laithy-0155b2173/" style="display: inline-block; margin: 0 10px;">
-    <img src="https://images.icon-icons.com/1043/PNG/512/social_media_icons_flat_shadow_set_512x512_0010_linkedin_icon-icons.com_76459.png" height="58"/>
+  <a href="YOUR_GITHUB_URL_HERE" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
   </a>
-  <a href="https://medium.com/@mohamed547754" style="display: inline-block; margin: 0 10px;">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/Medium_logo_Monogram.svg/2048px-Medium_logo_Monogram.svg.png" height="60"/>
+  <a href="mailto:YOUR_EMAIL_HERE" target="_blank">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
   </a>
 </div>
 
-<h3 align="left">🛠️ Languages & Tools:</h3>
-  <p align="center">
-    <img src="https://skillicons.dev/icons?i=java,php,py,spring,hibernate,nodejs,laravel,nextjs,nuxtjs,js,express,mysql,mongodb,aws,azure,angular,react,vue,git,bitbucket,kubernetes,docker,elasticsearch,maven,gradle,redis" alt="Tech Skills Icons"/>
-  </p>
+<br>
 
+## 💻 Tech Stack:
 
+### Backend:
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![Spring](https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
+![Hibernate](https://img.shields.io/badge/Hibernate-59666C?style=for-the-badge&logo=Hibernate&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
 
-<h3 align="left">🏆 GitHub Trophies:</h3>
-  <p align="center">
-    <img src="https://github-profile-trophy.vercel.app/?username=Mohamed-Hamdy&theme=onestar&row=1&column=7"/>
-  </p>
+### Frontend:
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 
+### Tools:
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Eclipse](https://img.shields.io/badge/Eclipse-2C2255?style=for-the-badge&logo=eclipse&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 
-  <!-- Languages -->
+<br>
 
-  <p align="center">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Mohamed-Hamdy&layout=compact&langs_count=5&theme=codeSTACKr"/>
-  </p>
+## 📊 GitHub Stats:
 
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=radical" alt="GitHub Stats"/>
+  <br><br>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=radical" alt="Top Languages"/>
+</div>
 
-  <!-- Snake -->
+<br>
 
-  <p align="center">
-    <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg">
-  </p>
- بص انا عاوزه اللينكات يبقوا بتوعي 
+## 🏆 GitHub Trophies:
+
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=YOUR_USERNAME&theme=radical&no-frame=true" alt="GitHub Trophies"/>
+</div>
+
+<br>
+
+## ✨ Fun Fact:
+- 🔭 Currently working on: Hotel Management System (Java Swing)
+- 🌱 Learning: Advanced Java & Spring Boot
+- ⚡ Fun fact: I love solving complex problems with elegant code!
+
+---
+
+<div align="center">
+  <i>Thanks for visiting! 😊</i>
+</div>
