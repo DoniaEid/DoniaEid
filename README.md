@@ -25,12 +25,10 @@
     <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/Medium_logo_Monogram.svg/2048px-Medium_logo_Monogram.svg.png" height="60"/>
   </a>
 </div>
-
 <h3 align="left">🛠️ Languages & Tools:</h3>
-  <p align="center">
-    <img src="https://skillicons.dev/icons?i=java,php,py,spring,hibernate,nodejs,laravel,nextjs,nuxtjs,js,express,mysql,mongodb,aws,azure,angular,react,vue,git,bitbucket,kubernetes,docker,elasticsearch,maven,gradle,redis" alt="Tech Skills Icons"/>
-  </p>
-
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=java,c,js,html,css,python,mysql,git,github,react"/>
+</p>
 
 
 <h3 align="left">🏆 GitHub Trophies:</h3>
