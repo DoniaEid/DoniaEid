@@ -31,11 +31,10 @@
   <img src="https://skillicons.dev/icons?i=java,c,cpp,js,html,css,python,mysql,git,github,linux,react"/>
 </p>
 
-
 <h3 align="left">🏆 GitHub Trophies:</h3>
-  <p align="center">
-    <img src="https://github-profile-trophy.vercel.app/?username=Mohamed-Hamdy&theme=onestar&row=1&column=7"/>
-  </p>
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Donia_Eid&theme=onestar&row=1&column=6&margin-w=10"/>
+</p>
 
 
   <!-- Languages -->
