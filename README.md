@@ -38,12 +38,11 @@
 
 
 
-  <!-- Languages -->
+<!-- Languages -->
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DoniaEid&layout=compact&theme=codeSTACKr"/>
+</p>
 
-  <p align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=Mohamed-Hamdy&layout=compact&langs_count=5&theme=codeSTACKr"/>
-
-  </p>
 
 
   <!-- Snake -->
