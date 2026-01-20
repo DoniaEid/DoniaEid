@@ -33,7 +33,7 @@
 
 <h3 align="left">🏆 GitHub Trophies:</h3>
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Donia_Eid&theme=onestar&row=1&column=6&margin-w=10"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=DoniaEid&theme=onestar&row=1&column=6&margin-w=10"/>
 </p>
 
 
@@ -50,4 +50,3 @@
   <p align="center">
     <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg">
   </p>
- عاوزه اللينك بتاعي وقلل كمان اللفات
