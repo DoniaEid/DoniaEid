@@ -42,7 +42,8 @@
   <!-- Languages -->
 
   <p align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=USERNAME&layout=compact&hide=html,css"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=Mohamed-Hamdy&layout=compact&langs_count=5&theme=codeSTACKr"/>
+
   </p>
 
 
