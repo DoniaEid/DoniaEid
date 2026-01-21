@@ -39,6 +39,11 @@
   <img src="https://github-profile-trophy.vercel.app/?username=DoniaEid&theme=onestar&row=1&column=6&no-frame=true&no-bg=true"/>
 </p>
 
+<p align="center">
+  <a href="https://www.linkedin.com/in/donia-eid-916993355/">
+    <img src="https://readme-typing-svg.herokuapp.com?lines=Visit+my+LinkedIn+Profile;Donia+Eid;Computer+Science+Student&center=true&color=30D050&pause=1700&size=21">
+  </a>
+</p>
 
 
 <!-- Languages -->
