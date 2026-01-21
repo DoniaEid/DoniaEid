@@ -4,8 +4,8 @@
 
 <!-- Google Me -->
 <p align="center">
-  <a href="https://www.google.com/search?q=donia+eid">
-    <img src="https://readme-typing-svg.herokuapp.com/?lines=Search%20me%20on%20Google;Donia%20Eid;Computer%20Science%20Student&font=Bold%20Code&center=true&color=30D050&pause=1700&size=21">
+  <a href="https://www.google.com/search?q=Donia+Eid+LinkedIn">
+    <img src="https://readme-typing-svg.herokuapp.com/?lines=Search%20me%20on%20Google;Donia%20Eid%20on%20LinkedIn;Computer%20Science%20Student&font=Bold%20Code&center=true&color=30D050&pause=1700&size=21">
   </a>
 </p>
 
