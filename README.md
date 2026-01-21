@@ -43,7 +43,7 @@
 
 <!-- Languages -->
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DoniaEid&layout=compact&theme=codeSTACKr"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DoniaEid&layout=compact&langs_count=5&theme=codeSTACKr"/>
 </p>
 
 
