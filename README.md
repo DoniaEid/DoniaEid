@@ -12,17 +12,21 @@
 
 
 
-  <!-- LinkedIn -->
-<a href="mailto:youremail@gmail.com">
-  <img src="https://skillicons.dev/icons?i=gmail" height="50"/>
-</a>
+<!-- Contact & Social Links -->
+<p align="center">
+  <a href="mailto:youremail@gmail.com">
+    <img src="https://skillicons.dev/icons?i=gmail" height="50"/>
+  </a>
 
-  <a href="https://www.linkedin.com/in/donia-eid-916993355/" style="display: inline-block; margin: 0 10px;">
-    <img src="https://images.icon-icons.com/1043/PNG/512/social_media_icons_flat_shadow_set_512x512_0010_linkedin_icon-icons.com_76459.png" height="58"/>
+  <a href="https://www.linkedin.com/in/donia-eid-916993355/">
+    <img src="https://images.icon-icons.com/1043/PNG/512/social_media_icons_flat_shadow_set_512x512_0010_linkedin_icon-icons.com_76459.png" height="55"/>
   </a>
-  <a href="https://medium.com/@mohamed547754" style="display: inline-block; margin: 0 10px;">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/Medium_logo_Monogram.svg/2048px-Medium_logo_Monogram.svg.png" height="60"/>
+
+  <a href="https://medium.com/@mohamed547754">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/Medium_logo_Monogram.svg/2048px-Medium_logo_Monogram.svg.png" height="55"/>
   </a>
+</p>
+
 </div>
 
 <h3 align="left">🛠️ Languages & Tools:</h3>
