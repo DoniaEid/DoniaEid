@@ -22,7 +22,7 @@
     <img src="https://images.icon-icons.com/1043/PNG/512/social_media_icons_flat_shadow_set_512x512_0010_linkedin_icon-icons.com_76459.png" height="55"/>
   </a>
 
-  <a href="https://medium.com/@mohamed547754">
+  <a href="https://medium.com/@doniaeid815">
     <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/Medium_logo_Monogram.svg/2048px-Medium_logo_Monogram.svg.png" height="55"/>
   </a>
 </p>
