@@ -30,7 +30,7 @@
 
 <h3 align="left">🛠️ Languages & Tools:</h3>
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=java,c,cpp,js,html,css,python,mysql,git,github,linux,react"/>
+  <img src="https://skillicons.dev/icons?i=java,c,cpp,js,html,css,python,mysql,git,github,linux,react,php,spring,hibernate,nodejs,laravel,nextjs,nuxtjs,express,aws,azure,angular,vue,bitbucket,kubernetes,docker,elasticsearch,maven,gradle,redis"/>
 </p>
 
 <h3 align="left">🏆 GitHub Trophies:</h3>
