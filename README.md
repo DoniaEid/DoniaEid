@@ -2,12 +2,13 @@
 
 <h2 align="center">Software Engineer</h2><br>
 
-<!-- Google Me -->
+<!-- Google Me (LinkedIn) -->
 <p align="center">
   <a href="https://www.google.com/search?q=Donia+Eid+LinkedIn">
-    <img src="https://readme-typing-svg.herokuapp.com/?lines=Search%20me%20on%20Google;Donia%20Eid%20on%20LinkedIn;Computer%20Science%20Student&font=Bold%20Code&center=true&color=30D050&pause=1700&size=21">
+    <img src="https://readme-typing-svg.herokuapp.com?lines=Search+me+on+Google;Donia+Eid+on+LinkedIn;Computer+Science+Student&center=true&color=30D050&pause=1700&size=21">
   </a>
 </p>
+
 
 
 
