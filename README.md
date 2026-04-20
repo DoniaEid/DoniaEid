@@ -47,7 +47,7 @@
   <table align="center">
     <tr>
         <td align="center" width="90">
-         <a href="https://www.linkedin.com/in/donia-eid-b333a328b/" target="_blank">
+         <a href="www.linkedin.com/in/donia-eid-916993355" target="_blank">
            <img src="https://github.com/gayanvoice/github-active-users-monitor/raw/master/public/images/icons/linkedin.svg" width="48" height="48" alt="LinkedIn"/>
          </a>
        </td>
@@ -57,7 +57,7 @@
          </a>
        </td>
         <td align="center" width="90">
-         <a href="mailto:doniaeid@example.com" target="_blank">
+         <a href="mailto:doniaeid815@gmail.com" target="_blank">
            <img src="https://github.com/gayanvoice/github-active-users-monitor/raw/master/public/images/icons/gmail.svg" width="48" height="48" alt="Gmail"/>
          </a>
        </td>
