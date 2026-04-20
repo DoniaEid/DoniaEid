@@ -41,13 +41,12 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/intellij/intellij-original.svg" width="50" title="IntelliJ IDEA"/> &nbsp;&nbsp;&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg" width="50" title="VS Code"/>
 </p>
-
 ## 🌍 Connect With Me
 <p align="center">
   <table align="center">
     <tr>
         <td align="center" width="90">
-         <a href="www.linkedin.com/in/donia-eid-916993355" target="_blank">
+         <a href="https://www.linkedin.com/in/donia-eid-916993355" target="_blank">
            <img src="https://github.com/gayanvoice/github-active-users-monitor/raw/master/public/images/icons/linkedin.svg" width="48" height="48" alt="LinkedIn"/>
          </a>
        </td>
