@@ -8,7 +8,6 @@
 ## 💫 About Me
 
 - 🎓 **Computer Science Student** at Helwan University (FCAI).
-- 🏆 Ranked **3rd in my class** with a cumulative GPA of **3.6 (Excellent)**.
 - 💻 **Competitive Programmer** | Active on Codeforces & LeetCode (ICPC Community Member).
 - ⚙️ Deeply interested in **Backend Architecture**, **Database Design**, and **System Scalability**.
 - 🛠️ Currently focusing on **Java**, **Spring Boot**, and advanced **SQL** problem solving.
