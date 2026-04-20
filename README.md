@@ -19,13 +19,16 @@
 
 ## 🧠 Languages & Tools
 
+
 <p align="center">
   <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg" width="50" title="Java"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/spring/spring-original.svg" width="50" title="Spring Boot"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg" width="50" title="C++"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg" width="50" title="C"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-original.svg" width="50" title="C#"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/php/php-original.svg" width="50" title="PHP"/>
 
-  <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original.svg" width="50" title="MySQL / SQL"/>
+  <br> <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original.svg" width="50" title="MySQL / SQL"/>
   <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" width="50" title="SQL Server"/>
 
   <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" width="50" title="Git"/>
@@ -33,6 +36,8 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/intellij/intellij-original.svg" width="50" title="IntelliJ IDEA"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg" width="50" title="VS Code"/>
 </p>
+
+
 
 ## 🌍 Connect With Me
 
