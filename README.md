@@ -39,7 +39,7 @@
   <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" width="50" title="Git"/> &nbsp;&nbsp;&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/postman/postman-original.svg" width="50" title="Postman"/> &nbsp;&nbsp;&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/intellij/intellij-original.svg" width="50" title="IntelliJ IDEA"/> &nbsp;&nbsp;&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg" width="50" title="VS Code"/>
+ <img src="https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-original.svg" width="50" title="C#" />
 </p>
   ### 📤 Find me on
 <p align="center">
