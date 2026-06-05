@@ -41,7 +41,7 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/intellij/intellij-original.svg" width="50" title="IntelliJ IDEA"/> &nbsp;&nbsp;&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg" width="50" title="VS Code"/>
 </p>
-## 🌍 Connect With Me
+  ### 📤 Find me on
 <p align="center">
   <table align="center">
     <tr>
@@ -49,12 +49,7 @@
          <a href="https://www.linkedin.com/in/donia-eid-916993355" target="_blank">
            <img src="https://github.com/gayanvoice/github-active-users-monitor/raw/master/public/images/icons/linkedin.svg" width="48" height="48" alt="LinkedIn"/>
          </a>
-       </td>
-        <td align="center" width="90">
-         <a href="https://codeforces.com/profile/donia_eid123" target="_blank">
-           <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/codeforces.svg" width="40" height="40" alt="Codeforces"/>
-         </a>
-       </td>
+        </td>
         <td align="center" width="90">
          <a href="mailto:doniaeid815@gmail.com" target="_blank">
            <img src="https://github.com/gayanvoice/github-active-users-monitor/raw/master/public/images/icons/gmail.svg" width="48" height="48" alt="Gmail"/>
