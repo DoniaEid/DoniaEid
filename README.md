@@ -1,5 +1,5 @@
 <h1 align="center">👋 Hey there, I'm <span style="color:#00BFFF">Donia Eid</span></h1>
-<h3 align="center">🚀 Backend Developer .Net </h3>
+<h3 align="center">🚀.Net Backend Developer </h3>
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello%20I'm%20Donia%20Eid;.Net%20Backend%20Developer;Spring%20Boot%20Developer;Competitive%20Programmer%20(ICPC%20Participant)&font=Fira%20Code&center=true&width=700&height=60&duration=3000&pause=1000&color=00C6FF&color2=0072FF&vCenter=true&size=24" alt="Typing SVG" />
